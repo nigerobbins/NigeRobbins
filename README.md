@@ -19,4 +19,4 @@ SSH key is used so that passwords are not required.
 Enhancements
 ------------
 This version polls the GitHub repository although webhooks could have been used instead.
-The Jenkins copy Artifact plugin could have been used to copy artifacts between jobs.
+The Jenkins copy artifact plugin could have been used to copy artifacts between jobs.
