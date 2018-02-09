@@ -1,7 +1,7 @@
-Task
-----
-Using the technology you best see fit, create a website and setup Continuous Integration for it so that you can automatically deploy changes to a publicly accessible website.
-The source code for the project should be available on GitHub.
+Introduction
+------------
+This article details a simple Continuous Integration infrastructure to automatically deploy changes to a publicly accessible website.
+The source code for the project is available on GitHub.
 
 Solution
 --------
